@@ -81,5 +81,6 @@ More Information
 
 - https://github.com/TryGhost/Ghost/wiki/Using-Ghost-as-an-NPM-module
 - https://ghost.org/forum/using-ghost/15521-getting-ghost-working-in-a-sub-director-e-g-blog/
+- http://www.allaboutghost.com/how-to-install-ghost-in-a-subdirectory/
 
 
