@@ -1,0 +1,25 @@
+{
+  "name": "hapi-ghost-proxy-example",
+  "version": "0.0.1",
+  "description": "A simple example repo to demonstrate how to proxy to a ghost blog on the /blog subdomain using hapi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owenscott/hapi-ghost-proxy-example"
+  },
+  "keywords": [
+    "hapi",
+    "ghost",
+    "proxy",
+    "blog"
+  ],
+  "author": "Owen Scott (owen.m.scott@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/owenscott/hapi-ghost-proxy-example/issues"
+  },
+  "homepage": "https://github.com/owenscott/hapi-ghost-proxy-example"
+}
